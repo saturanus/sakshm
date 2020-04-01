@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StaySafe</string>
+    <string name="title_activity_maps">StaySafe</string>
+    <string name="location_permission_denied">Permission to access location has been denied.</string>
+    <string name="permission_required_toast">Permission to ACCESS USER LOCATION is REQUIRED.</string>
+    <string name="permission_rationale_location">Your location is required to determine your exposure level.</string>
+</resources>
